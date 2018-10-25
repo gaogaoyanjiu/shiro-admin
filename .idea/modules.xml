@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-config/renren-api.iml" filepath="$PROJECT_DIR$/../springcloud-config/renren-api.iml" />
+      <module fileurl="file://D:/springcloud-config/renren-api.iml" filepath="D:/springcloud-config/renren-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-config/renren-common.iml" filepath="$PROJECT_DIR$/../springcloud-config/renren-common.iml" />
+      <module fileurl="file://D:/springcloud-config/renren-common.iml" filepath="D:/springcloud-config/renren-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-config/renren-gen.iml" filepath="$PROJECT_DIR$/../springcloud-config/renren-gen.iml" />
+      <module fileurl="file://D:/springcloud-config/renren-gen.iml" filepath="D:/springcloud-config/renren-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-config/renren-schedule.iml" filepath="$PROJECT_DIR$/../springcloud-config/renren-schedule.iml" />
+      <module fileurl="file://D:/springcloud-config/renren-schedule.iml" filepath="D:/springcloud-config/renren-schedule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-config/renren-security.iml" filepath="$PROJECT_DIR$/../springcloud-config/renren-security.iml" />
+      <module fileurl="file://D:/springcloud-config/renren-security.iml" filepath="D:/springcloud-config/renren-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-config/renren-shiro.iml" filepath="$PROJECT_DIR$/../springcloud-config/renren-shiro.iml" />
+      <module fileurl="file://D:/springcloud-config/renren-shiro.iml" filepath="D:/springcloud-config/renren-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcloud-config/renren-web.iml" filepath="$PROJECT_DIR$/../springcloud-config/renren-web.iml" />
+      <module fileurl="file://D:/springcloud-config/renren-web.iml" filepath="D:/springcloud-config/renren-web.iml" />
+    </modules>
+  </component>
+</project>
